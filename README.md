@@ -31,7 +31,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
-
+[check out my site](https://spacewal.github.io/password-generator/)
 ![image](/assets/images/Screen%20Shot%202022-06-30%20at%2011.23.34%20PM.png)
 The following image demonstrates the application functionality:
 
