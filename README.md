@@ -32,6 +32,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
+![image](/assets/images/Screen%20Shot%202022-06-30%20at%2011.23.34%20PM.png)
 The following image demonstrates the application functionality:
 
 ![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./Assets/03-javascript-homework-demo.png)
